@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:tutorial4_Timers/tutorial4_Timers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:tutorial1_makingdisplay copy/tutorial3_Events.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:tutorial2_fullScreen/tutorial2_fullScreen.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:tutorial1_makingdisplay/tutorial1_makingdisplay.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:allegro_test_take2.xcodeproj">
+   </FileRef>
+</Workspace>
